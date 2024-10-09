@@ -1,3 +1,5 @@
 # bugs
  
-OOOOOOO MY GOD OOOOO MY GOOOD
+Change the webhook in the server side
+
+enjoy
